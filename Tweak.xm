@@ -1,5 +1,5 @@
 @interface SCPlayableListItem
--(id)tracklistPlayableItem;;
+-(id)tracklistPlayableItem;
 @end
 
 @interface SCPlayableItem
