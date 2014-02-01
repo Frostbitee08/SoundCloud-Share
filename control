@@ -1,0 +1,9 @@
+Package: com.frostbitee08.soundcloudshare
+Name: SoundCloud Share
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Use the default sharing options, instead of soundcloud’s built in sharing options.
+Maintainer: Rocco Del Priore
+Author: Rocco Del Priore
+Section: Tweaks

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.frostbitee08.scsettings</string>
+			<key>key</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Include Track Title</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.frostbitee08.scsettings</string>
+			<key>key</key>
+			<string>TrackTitle</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>SoundCloud Share</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = scsettings;
+	cell = PSLinkCell;
+	detail = scsettingsListController;
+	icon = scsettings.png;
+	isController = 1;
+	label = SoundCloudShare;
+    };
+}
