@@ -1,7 +1,7 @@
 SoundCloud Share
 ================
 
-SoundCloud Share is jailbroken tweak that forces the official [SoundCloud App](https://itunes.apple.com/us/app/soundcloud-music-audio-discovery/id336353151?mt=8) to use [UIActivityViewController](https://developer.apple.com/library/ios/documentation/uikit/reference/UIActivityViewController_Class/Reference/Reference.html) instead of their custom sharing view.
+SoundCloud Share is jailbroken tweak that forces the official [SoundCloud App](https://itunes.apple.com/us/app/soundcloud-music-audio-discovery/id336353151?mt=8) to use [UIActivityViewController](https://developer.apple.com/library/ios/documentation/uikit/reference/UIActivityViewController_Class/Reference/Reference.html) instead of their custom sharing view. **Note:** You *must* have a jailbroken device to use this tweak.
 
 SoundCloud Share is [availble on cydia](http://modmyi.com/cydia/com.frostbitee08.soundcloudshare) for free under the [ModMyI](http://www.modmyi.com) repo.
 
